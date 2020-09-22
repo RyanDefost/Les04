@@ -4,5 +4,7 @@
 
 * __Welkom bij deze README!__
 * _Italië_
-* > Blockquotes
-* > En blockquotes 2
+> Blockquotes
+> En blockquotes 2
+
+![This is a alt text.](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.w3schools.com%2Fw3css%2Fimg_lights.jpg&imgrefurl=https%3A%2F%2Fwww.w3schools.com%2Fw3css%2Fw3css_images.asp&tbnid=kwgHAQqTiLQXLM&vet=12ahUKEwiZx53RwvzrAhXZwQIHHSAJBDMQMygCegUIARCnAQ..i&docid=R0KnAtfyBDsyiM&w=600&h=400&q=image&ved=2ahUKEwiZx53RwvzrAhXZwQIHHSAJBDMQMygCegUIARCnAQ")
